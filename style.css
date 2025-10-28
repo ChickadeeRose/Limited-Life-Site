@@ -1,0 +1,29 @@
+header{
+width: 1500px;
+height: 300px;
+background-color: #fde2ff;
+}
+nav{
+width: 1500px;
+height: 50px;
+background-color: #e8cee4;
+}
+section{
+overflow: auto;
+background-color: #8884ff;
+width: 1500;
+height: 1320;
+}
+article{
+width: 675px;
+height: 800px;
+background-color: #d7bce8;
+margin-top: 50px;
+margin-left: 50px;
+}
+aside{
+
+}
+footer{
+
+}
