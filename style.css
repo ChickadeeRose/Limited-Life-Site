@@ -1,6 +1,6 @@
 header{
 width: 1500px;
-height: 300px;
+height: 150px;
 background-color: #fde2ff;
 }
 nav{
@@ -12,11 +12,11 @@ section{
 overflow: auto;
 background-color: #8884ff;
 width: 1500;
-height: 1320;
+height: 950;
 }
 article{
 width: 675px;
-height: 800px;
+height: 600;
 background-color: #d7bce8;
 margin-top: 50px;
 margin-left: 50px;
@@ -25,5 +25,7 @@ aside{
 
 }
 footer{
-
+height: 70px;
+width: 1500px;
+background-color: #5d576b;
 }
