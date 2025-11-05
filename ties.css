@@ -1,18 +1,30 @@
 header{
 width: 1500px;
 height: 150px;
-background-color: #167e64;
+background-color: #9d5c5c;
+color: #ffffff;
 }
-nav{
+nav#top{
 width: 1500px;
 height: 50px;
-background-color: #076850;
+background-color: #680d0d;
+color: #ffffff;
+}
+nav#side{
+width: 150px;
+height: 600px;
+float: left;
+margin-left: 50px;
+margin-top: 50px;
+background-color: #680d0d;
+color: #ffffff;
 }
 section{
 overflow: auto;
-background-color: #002018;
+background-color: #410000;
 width: 1500;
 height: 750;
+color: #ffffff;
 }
 article{
 width: 575px;
@@ -21,6 +33,7 @@ background-color: #00533e;
 margin-top: 50px;
 margin-left: 50px;
 float: left;
+color: #ffffff;
 }
 aside{
 width: 575px;
@@ -29,9 +42,11 @@ background-color: #00533e;
 margin-top: 50px;
 margin-left: 50px;
 float: left;
+color: #ffffff;
 }
 footer{
 height: 70px;
 width: 1500px;
 background-color: #003a2c;
+color: #ffffff;
 }
