@@ -1,0 +1,52 @@
+header{
+width: 1500px;
+height: 150px;
+background-color: #eec055;
+color: #000000;
+}
+nav#top{
+width: 1500px;
+height: 50px;
+background-color: #af8114;
+color: #000000;
+}
+nav#side{
+width: 150px;
+height: 600px;
+float: left;
+margin-left: 50px;
+margin-top: 50px;
+background-color: #af8114;
+color: #000000;
+}
+section{
+overflow: auto;
+background-color: #5c4100;
+width: 1500;
+height: 750;
+color: #000000;
+}
+article{
+width: 575px;
+height: 600;
+background-color: #d8a52b;
+margin-top: 50px;
+margin-left: 50px;
+float: left;
+color: #000000;
+}
+aside{
+width: 575px;
+height: 600;
+background-color: #d8a52b;
+margin-top: 50px;
+margin-left: 50px;
+float: left;
+color: #000000;
+}
+footer{
+height: 70px;
+width: 1500px;
+background-color: #8b6201;
+color: #000000;
+}
