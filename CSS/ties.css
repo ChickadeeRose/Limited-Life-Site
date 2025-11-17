@@ -3,12 +3,14 @@ width: 1500px;
 height: 150px;
 background-color: #9d5c5c;
 color: #ffffff;
+text-align: center;
 }
 nav#top{
 width: 1500px;
 height: 50px;
 background-color: #680d0d;
 color: #ffffff;
+text-align: center;
 }
 nav#side{
 width: 150px;
@@ -18,6 +20,8 @@ margin-left: 50px;
 margin-top: 50px;
 background-color: #680d0d;
 color: #ffffff;
+text-align: center;
+
 }
 section{
 overflow: auto;
@@ -49,4 +53,18 @@ height: 70px;
 width: 1500px;
 background-color: #520000;
 color: #ffffff;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a{
+color: #aaaaaa;
+font-family: cursive;
+font-style: italic;
+}
+ul{
+margin-right: 100;
+text-align: center;
+}
+h2{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-weight: 100;
 }

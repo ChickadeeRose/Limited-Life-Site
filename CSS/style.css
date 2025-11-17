@@ -2,11 +2,13 @@ header{
 width: 1500px;
 height: 150px;
 background-color: #fde2ff;
+text-align: center;
 }
 nav{
 width: 1500px;
 height: 50px;
 background-color: #e8cee4;
+text-align: center;
 }
 section{
 overflow: auto;
@@ -34,4 +36,18 @@ footer{
 height: 70px;
 width: 1500px;
 background-color: #5d576b;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a{
+color: #aaaaaa;
+font-family: cursive;
+font-style: italic;
+}
+ul{
+margin-right: 100;
+text-align: center;
+}
+h2{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-weight: 100;
 }
