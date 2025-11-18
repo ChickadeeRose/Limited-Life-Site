@@ -29,23 +29,30 @@ width: 1500;
 height: 750;
 color: #000000;
 }
-article{
-width: 575px;
-height: 600;
+.scrollable-article {
+width: 535;
+height: 560;
 background-color: #d0960a;
 margin-top: 50px;
 margin-left: 50px;
 float: left;
 color: #000000;
+padding: 20px 20px;
+overflow-y: auto;
 }
-aside{
-width: 575px;
-height: 600;
+.scrollable-aside {
+width: 535;
+height: 580;
 background-color: #d0960a;
 margin-top: 50px;
 margin-left: 50px;
 float: left;
 color: #000000;
+padding: 0px 20px 20px;
+overflow-y: auto;
+text-align: center;
+font-size: 20;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 footer{
 height: 70px;
