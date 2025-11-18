@@ -1,25 +1,25 @@
 header{
 width: 1500px;
 height: 150px;
-background-color: #fde2ff;
+background-color: #9BD46A;
 text-align: center;
 }
 nav{
 width: 1500px;
 height: 50px;
-background-color: #e8cee4;
+background-color: #8CC95B;
 text-align: center;
 }
 section{
 overflow: auto;
-background-color: #8884ff;
+background-color: #5DA92F;
 width: 1500;
 height: 750;
 }
 article{
 width: 675px;
 height: 600;
-background-color: #d7bce8;
+background-color: #7CBF4D;
 margin-top: 50px;
 margin-left: 50px;
 float: left;
@@ -27,7 +27,7 @@ float: left;
 aside{
 width: 675px;
 height: 600;
-background-color: #d7bce8;
+background-color: #7CBF4D;
 margin-top: 50px;
 margin-left: 50px;
 float: left;
@@ -35,11 +35,11 @@ float: left;
 footer{
 height: 70px;
 width: 1500px;
-background-color: #5d576b;
+background-color: #6DB43E;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 a{
-color: #aaaaaa;
+color: #666666;
 font-family: cursive;
 font-style: italic;
 }
