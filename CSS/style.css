@@ -16,21 +16,27 @@ background-color: #5DA92F;
 width: 1500;
 height: 750;
 }
-article{
-width: 675px;
-height: 600;
+.scrollable-article {
+width: 635px;
+height: 560;
 background-color: #7CBF4D;
 margin-top: 50px;
 margin-left: 50px;
 float: left;
+overflow-y: auto;
+padding: 20px 20px;
 }
-aside{
-width: 675px;
-height: 600;
+.scrollable-aside {
+width: 635px;
+height: 580;
 background-color: #7CBF4D;
 margin-top: 50px;
 margin-left: 50px;
 float: left;
+text-align: center;
+overflow-y: auto;
+padding: 0px 20px 20px;
+font-size: 20;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 footer{
 height: 70px;
