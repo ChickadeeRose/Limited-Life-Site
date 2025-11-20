@@ -1,19 +1,19 @@
 header{
-width: 1500px;
+width: 100%;
 height: 150px;
 background-color: #167e64;
 color: #ffffff;
 text-align: center;
 }
 nav#top{
-width: 1500px;
+width: 100%;
 height: 50px;
 background-color: #076850;
 color: #ffffff;
 text-align: center;
 }
 nav#side{
-width: 150px;
+width: 10%;
 height: 600px;
 float: left;
 margin-left: 50px;
@@ -25,12 +25,12 @@ text-align: center;
 section{
 overflow: auto;
 background-color: #002018;
-width: 1500;
+width: 100%;
 height: 750;
 color: #ffffff;
 }
 .scrollable-article {
-width: 535;
+width: 35.6666667%;
 height: 560;
 background-color: #00533e;
 margin-top: 50px;
@@ -41,7 +41,7 @@ padding: 20px 20px;
 overflow-y: auto;
 }
 .scrollable-aside {
-width: 535;
+width: 35.6666667%;
 height: 580;
 background-color: #00533e;
 margin-top: 50px;
@@ -56,7 +56,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 footer{
 height: 70px;
-width: 1500px;
+width: 100%;
 background-color: #003a2c;
 color: #ffffff;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -67,8 +67,7 @@ font-family: cursive;
 font-style: italic;
 }
 ul{
-margin-right: 100;
-text-align: center;
+text-align: left;
 }
 h2{
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;

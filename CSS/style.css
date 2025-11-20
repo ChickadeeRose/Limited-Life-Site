@@ -1,11 +1,11 @@
 header{
-width: 1500px;
+width: 100%;
 height: 150px;
 background-color: #9BD46A;
 text-align: center;
 }
 nav{
-width: 1500px;
+width: 100%;
 height: 50px;
 background-color: #8CC95B;
 text-align: center;
@@ -13,11 +13,11 @@ text-align: center;
 section{
 overflow: auto;
 background-color: #5DA92F;
-width: 1500;
+width: 100%;
 height: 750;
 }
 .scrollable-article {
-width: 635px;
+width: 42.3333333%;
 height: 560;
 background-color: #7CBF4D;
 margin-top: 50px;
@@ -27,7 +27,7 @@ overflow-y: auto;
 padding: 20px 20px;
 }
 .scrollable-aside {
-width: 635px;
+width: 42.3333333%;
 height: 580;
 background-color: #7CBF4D;
 margin-top: 50px;
@@ -41,7 +41,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 footer{
 height: 70px;
-width: 1500px;
+width: 100%;
 background-color: #6DB43E;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -49,10 +49,6 @@ a{
 color: #666666;
 font-family: cursive;
 font-style: italic;
-}
-ul{
-margin-right: 100;
-text-align: center;
 }
 h2{
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
